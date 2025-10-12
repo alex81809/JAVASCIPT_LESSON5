@@ -1,6 +1,6 @@
-# Loops in JS
+# Arrays and Callstacks in JS
 
 | Project | Link | 
 | :------ | :---------- | 
-| `arrays` | https://github.com/alex81809/loops-in-js/tree/main/built_in_math |
-| `callstack` | https://github.com/alex81809/loops-in-js/tree/main/objects | 
+| `arrays` | https://github.com/alex81809/arrays-and-callstacks-in-js/tree/main/arrays |
+| `callstack` | https://github.com/alex81809/arrays-and-callstacks-in-js/tree/main/call_stack | 
